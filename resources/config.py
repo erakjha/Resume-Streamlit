@@ -21,7 +21,7 @@ PROJECTS = {
 }
 
 
-JOB0_ROLES = """
+JOB4_ROLES = """
 |            Role             |      Duration       |
 |:---------------------------:|:-------------------:|
 |Associate Sr. DevOps Engineer| May/2022 - Present  |
@@ -30,29 +30,39 @@ JOB0_ROLES = """
 
 
 
-JOB0_RESP = """
-    - ► Deployed solutions in test and production environments using Ansible and Jenkins.
-    - ► Utilized various DevOps tools like Bitbucket, Bamboo, Jira, Gradle, Ansible, and Confluence.
-    - ► Conducted proof-of-concepts for integrating Mobile Recharge apps with cloud technologies.
-    - ► Managed Ansible playbook for server setup and application deployment.
-    - ► Implemented Grafana for real-time monitoring of voice/sms/data and recharge traffic.
-    - ► Jira Administrator skilled in end-to-end project management and CI tool integration.
-    - ► Managed Docker image and container deployment for microservices.
-    - ► Focused on automation, integration, monitoring, and configuration management.
-    - ► Integrated Bamboo, Bitbucket, Confluence, and Jira for automated release process.
-    - ► Provided Linux administration & Product support to ESSJ Test Lines.
-    - ► Completed load and performance testing of Ericsson IN systems.
+JOB4_RESP = """
+      • Utilized various DevOps tools like Bitbucket, Bamboo, Jira, Gradle, Ansible, and Confluence.
+      • Managed   playbook for server setup and application deployment.
+      • Implemented Grafana for real-time monitoring of node and pod  status.
+      • Jira Administrator skilled in end-to-end project management and CI tool integration.
+      • Managed Docker image and container deployment for microservices.
+      • Integrated Bamboo, Bitbucket, Confluence, and Jira for automated release process.
+      • Rapid Release (15 Days release cycle) & Post Production deployment and support)
+      • Coordinated release schedules with developer and branch Manager and perform the post deployment on Prod-backup.
+      • Ensure all the released applications are running on  Prod-backup
+      • update and circulate the mail for the blocked and rolled back application to the stakeholders.
+      • Release Automation using python framework
+      • Upgraded existing CI tools like Jira, Confluence 
+      • Test Environment and Support.
+      • AWS environment provisioning for testing feature branches using salt-cloud and jinja templates.
+      • Used Dynatrace, Splunk, ELK and Grafana for monitoring application and environment resources.
+      • EKS cluster Management (Worker Node Scaling,Deployments,Pods Troubleshooting)
+      • App build & deployment support.
+      • AWS Management through Terraform (IAM,LAMBDA,EKS)
+      • Build plan migration from Bamboo to Jenkins for Java8 to Java17 pipeline.
+      • CMT inhouse developed tool  for Environment and Deployment Management (CI-CD)
+
     """
 
 
-JOB1_ROLES = """
+JOB3_ROLES = """
 |            Role             |      Duration       |
 |:---------------------------:|:-------------------:|
 | Manager(Technical Lead)     | SEP/2019 - May/2022 |
 """
 
 
-JOB1_RESP = """		            		 
+JOB3_RESP = """		            		 
 Projects: (Tools, Environment & Automation) 
 Roles and Responsibilities: Vodafone Idea Ltd as  SNOC Technical Lead	
     • Design and build highly available and scalable infrastructure in VM based &  AWS cloud.
@@ -80,7 +90,7 @@ JOB2_ROLES = """
 
 
 JOB2_RESP = """
-    Projects: (Configuration Management/NMS) 
+Projects: (Configuration Management/NMS) 
 Roles and Responsibilities:
 
     • Ericsson/ZTE Core/RAN Configuration Management: 
@@ -108,41 +118,7 @@ Roles and Responsibilities:
         ◦ Coordinates with Ericsson for troubleshooting and faults rectification.
     """
 
-JOB2_ROLES = """
-|            Role             |      Duration       |
-|:---------------------------:|:-------------------:|
-|       Asistant Manager      | JUN/2014 - AUG/2015 |
-"""
 
-
-JOB2_RESP = """
-    Projects: (Configuration Management/NMS) 
-Roles and Responsibilities:
-
-    • Ericsson/ZTE Core/RAN Configuration Management: 
-        ◦ New Site Integrating, Network Optimization, Software up-gradation & correction package loading
-        ◦ Creating signalling link and size alteration for BSC/MSC and other configuration. 
-        ◦ Script Created to perform C7 link creation, Routing definition, GPRS definition, TRA/GPH/TRH/STM card addition/deletion.
-        ◦ Perform the capacity enhancement and Site migration, keeping in view the requirements and ensure the Network design meets the goals and objectives.
-    • Performance and Backup Management for Ericsson/ZTE:
-        ◦ Perform the Routine backup & Preventive maintenance of BTS/NodeB/EnodeB/BSC/RNC/MSC.
-        ◦ Handling problem related to GPRS, Call drop, CSSR, Congestion and Handover failures etc.
-        ◦ Interact with field staff in resolving problems related to the call failures, coverage related issues and other technical problems.
-        ◦ Script generation in OSS for monitoring/Configuration purpose.
-
-    • Report Generation and Analysis:
-        ◦ Generation, customization & analysis of various types of daily/monthly/quarterly traffic reports, MIS Reports, Network health reports etc for monitoring of key performance statistics.
-        ◦ Generation of various reports from BO for the analysis of important KPI e.g. drop call, CSSR, congestion, handover, etc on cell level.
-
-    • Switch Operations & Fault Management:
-        ◦ Definition of sites in MSC/BSC/RNC
-        ◦ Correction Package loading/ software up gradation
-        ◦ Cell/LAC definition, Location trace etc.
-        ◦ Handling and troubleshooting of problems in CP& RP Fault.   
-        ◦ Operation & Maintenance of BSS & NSS i.e. Alarm handling, Fault diagnosis and Rectification.
-        ◦ Analysing APZ, APT & BSS fault related alarms and troubleshooting the same.
-        ◦ Coordinates with Ericsson for troubleshooting and faults rectification
-    """
 JOB1_ROLES = """
 |            Role             |      Duration       |
 |:---------------------------:|:-------------------:|
@@ -153,8 +129,8 @@ JOB1_ROLES = """
 """
 
 JOB1_RESP = """
- Projects: (Ericsson Core & Radio Product Testing & Development) 
-        Roles and Responsibilities:
+Projects: (Ericsson supply Site Core & Radio Product Testing & Development) 
+Roles and Responsibilities:
     • 20 Members Team Management as per Production requirement(2G/3G/4G Testing).
     • Responsible for Software release at Dev/Prod environment and test results shared with developers for the improvement in test cases and product bugs.
     • Barrack & Pamela Configuration management for Test System.
@@ -209,10 +185,6 @@ Roles and Responsibilities: Test Engineer for Ericsson
     """
 
 
-    5) Team Lease as Test Engineer			            	                  		    Sep’07– Jun’08 
-       
-
-
 
 EDUCATION = """
 | Degree | Institute  | University | Completion Year |          Major          | Percentage |
@@ -227,6 +199,7 @@ SKILLS = """
     - 👩‍💻 Programming: Python, Groovy, Bash Scripting
     - 📊 CI CD Tools: Jenkins, Bamboo, Artifactory, Bitbucket, Jira, Confluence, 
     - 🗄️ Databases: MySQL
+    - 📊 Kubefrnetes: CKA
     """
 
 
@@ -263,23 +236,36 @@ JOBS = [
     {
         "COMPANY": "Idea Cellular Ltd",
         "DURATION": "AUG/2015 - OCT/2019",
-        "ROLES": JOB0_ROLES,
-        "RESP": JOB0_RESP
+        "ROLES": JOB2_ROLES,
+        "RESP": JOB2_RESP
     },
     {
         "COMPANY": "Vodafone Idea Ltd",
         "DURATION": "AUG/2015 - MAY/2022",
-        "ROLES": JOB0_ROLES,
-        "RESP": JOB0_RESP
+        "ROLES": JOB3_ROLES,
+        "RESP": JOB3_RESP
     },
     
     {
         "COMPANY": "Global Payments",
         "DURATION": "MAY/2022 - Present",
-        "ROLES": JOB0_ROLES,
-        "RESP": JOB0_RESP
+        "ROLES": JOB4_ROLES,
+        "RESP": JOB4_RESP
     }
 ]
 
 CERTIFICATIONS = """
+● CKA certified by CNCF in 2023
+● 5G-Technology, Architecture and protocols Certification by Udemy in 2021
+● Certified Kubernetes Administration with Practice Tests training and certification by Udemy in 2021
+● AWS Cloud Practitioner Essentials training in 2021
+● AWS Technical Essentials training in 2021
+● PRINCE2 Agile® Foundation training &amp; Certified in Agile Project Management in 2020.
+● PRINCE2 Agile® Practitioner training &amp; Certified in Agile Project Management in 2020.
+● Green Belt® Certified based on DMAIC Project accomplished in Idea Cellular ltd in 2017
+● Ericsson RAN Associate Certified in 2014.
+● Training &amp; Certification for Microwave Mini Link RAU 2.1 at Boras, Sweden in 2012
+● Training &amp; Certification for MSC-S R13 Configuration at Ericsson Gurgaon in 2011
+● Training in Katrineholm, Sweden for the TPI for Blade Cluster in 2010.
+● Training in Katrineholm, Sweden for TPI of BSC-HD and APG 43 in 2008
 """

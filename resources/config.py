@@ -1,13 +1,13 @@
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "DevOps Professional | Kunal Jha"
+PAGE_TITLE = "DevOps Professional | Rakesh Jha"
 PAGE_ICON = ":wave:"
-NAME = "_Kunal Jha_"
-DESCRIPTION = f"Senior DevOps Engineer, specializing in automation and optimizing CI/CD processes " \
+NAME = "_Rakesh Jha_"
+DESCRIPTION = f"Associate Senior DevOps Engineer, specializing in automation and optimizing CI/CD processes " \
               f"for seamless and efficient software delivery in enterprise environments."
-EMAIL = "kunaljha5@gmail.com"
+EMAIL = "rakeshjha5@gmail.com"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://linkedin.com/in/kunaljha5",
-    "GitHub": "https://github.com/kunaljha5"
+    "GitHub": "https://github.com/erakjha"
 }
 
 
@@ -24,10 +24,8 @@ PROJECTS = {
 JOB0_ROLES = """
 |            Role             |      Duration       |
 |:---------------------------:|:-------------------:|
-| Associate DevOps Consultant | JUL/2022 - Present  |
-|    Lead DevOps Engineer     | JAN/2021 - JUL/2022 |
-|       DevOps Engineer       | OCT/2019 - JAN/2021 |
-|            SDET             | JUN/2018 - OCT/2019 |
+|Associate Sr. DevOps Engineer| May/2022 - Present  |
+|   
 """
 
 
@@ -42,7 +40,7 @@ JOB0_RESP = """
     - ► Managed Docker image and container deployment for microservices.
     - ► Focused on automation, integration, monitoring, and configuration management.
     - ► Integrated Bamboo, Bitbucket, Confluence, and Jira for automated release process.
-    - ► Provided Linux administration services to customers in Africa.
+    - ► Provided Linux administration & Product support to ESSJ Test Lines.
     - ► Completed load and performance testing of Ericsson IN systems.
     """
 
@@ -50,45 +48,185 @@ JOB0_RESP = """
 JOB1_ROLES = """
 |            Role             |      Duration       |
 |:---------------------------:|:-------------------:|
-| Senior Integration Engineer | SEP/2017 - JUN/2018 |
-|       Senior Engineer       | APR/2015 - SEP/2017 |
-|      Services Engineer      | DEC/2011 - APR/2015 |
+| Manager(Technical Lead)     | SEP/2019 - May/2022 |
 """
 
 
-JOB1_RESP = """
-    - ► Implemented Jenkins-JIRA solution to streamline on-boarding and improve efficiency.
-    - ► Automated bi-weekly releases using Python framework, Jenkins, and MySQL database.
-    - ► Provided daily support, ensuring smooth build and deployment processes.
-    - ► Integrated Spring Config Server and established pipeline for production environment promotion.
-    - ► Deployed AWS Pinpoint with event stream processing and storage using Terraform.
-    - ► Created AWS infrastructure for clearance and settlement platforms using Terraform and Jenkins.
-    - ► Conducted proof-of-concept for transitioning to AWS Connect for IVR system.
-    - ► Implemented GitOps-controlled automation for building Jenkins Docker images.
-    - ► Streamlined Jenkins container deployment with seamless updates using Linux service scripts.
-    - ► Integrated Slack, AWS API Gateway, MySQL, and Lambda for efficient information retrieval.
-    - ► Implemented synthetic monitoring solution using AWS CloudWatch and Python scripts.
-    - ► Facilitated comprehensive training on CI/CD tools and technologies for new hires.
-    - ► Streamlined regression suite testing with Jenkins, AWS EC2 instances, and shared libraries.
-    - ► Integrated Active Directory for Federated Access across Bamboo, Jenkins, Confluence, and Bitbucket.
-    - ► Routinely upgraded DevOps tools to stay current with latest features and improvements.
-    - ► Optimized database release process with Python, MySQL, and Datical/Liquibase integration.
+JOB1_RESP = """		            		 
+Projects: (Tools, Environment & Automation) 
+Roles and Responsibilities: Vodafone Idea Ltd as  SNOC Technical Lead	
+    • Design and build highly available and scalable infrastructure in VM based &  AWS cloud.
+    • DevOps Consulting for engineering, development and integration team.
+    • Managing development tools like Jenkins, Bitbucket, Artifactory, Confluence, JIRA etc.
+    • Involved in development of test environment on Docker containers and configuring the Docker containers using Kubernetes for Parallel wireless Project.
+    • Support development teams from infrastructure side in Refactoring of monolithic applications to a Microservices based architectures.
+    • Utilized Kubernetes for the runtime environment of the CI/CD system to build, test deploy.
+    • Managed JFROG repositories to download the artifacts (jar & war) during the build.
+    • Provide work environment automation solutions on basis of POC and LLD/HLD.
+    • Conduct systems design, feasibility and cost studies and recommend cost-effective cloud solutions.
+    • Automated Deployment of Cloud Computing with Containerized Docker integration on Linux system.
+    • Mange deployment to various environment – QA, PROD, DEV.
+    • Implementation of CI/CD Pipelines using Jenkins.
+    • Task Automation using Terraform, Ansible, Python and shell Scripting and DevOps tools like - GIT for code control, Jenkins, Python, Bash, Docker and Kubernetes.
+    • Cloud Resources provisioning using automation tools – Terraform. 
     """
+
+
+JOB2_ROLES = """
+|            Role             |      Duration       |
+|:---------------------------:|:-------------------:|
+|       Asistant Manager      | AUG/2015 - SEP/2019 |
+"""
+
+
+JOB2_RESP = """
+    Projects: (Configuration Management/NMS) 
+Roles and Responsibilities:
+
+    • Ericsson/ZTE Core/RAN Configuration Management: 
+        ◦ New Site Integrating, Network Optimization, Software up-gradation & correction package loading
+        ◦ Creating signalling link and size alteration for BSC/MSC and other configuration. 
+        ◦ Script Created to perform C7 link creation, Routing definition, GPRS definition, TRA/GPH/TRH/STM card addition/deletion.
+        ◦ Perform the capacity enhancement and Site migration, keeping in view the requirements and ensure the Network design meets the goals and objectives.
+    • Performance and Backup Management for Ericsson/ZTE:
+        ◦ Perform the Routine backup & Preventive maintenance of BTS/NodeB/EnodeB/BSC/RNC/MSC.
+        ◦ Handling problem related to GPRS, Call drop, CSSR, Congestion and Handover failures etc.
+        ◦ Interact with field staff in resolving problems related to the call failures, coverage related issues and other technical problems.
+        ◦ Script generation in OSS for monitoring/Configuration purpose.
+
+    • Report Generation and Analysis:
+        ◦ Generation, customization & analysis of various types of daily/monthly/quarterly traffic reports, MIS Reports, Network health reports etc for monitoring of key performance statistics.
+        ◦ Generation of various reports from BO for the analysis of important KPI e.g. drop call, CSSR, congestion, handover, etc on cell level.
+
+    • Switch Operations & Fault Management:
+        ◦ Definition of sites in MSC/BSC/RNC
+        ◦ Correction Package loading/ software up gradation
+        ◦ Cell/LAC definition, Location trace etc.
+        ◦ Handling and troubleshooting of problems in CP& RP Fault.   
+        ◦ Operation & Maintenance of BSS & NSS i.e. Alarm handling, Fault diagnosis and Rectification.
+        ◦ Analysing APZ, APT & BSS fault related alarms and troubleshooting the same.
+        ◦ Coordinates with Ericsson for troubleshooting and faults rectification.
+    """
+
+JOB2_ROLES = """
+|            Role             |      Duration       |
+|:---------------------------:|:-------------------:|
+|       Asistant Manager      | JUN/2014 - AUG/2015 |
+"""
+
+
+JOB2_RESP = """
+    Projects: (Configuration Management/NMS) 
+Roles and Responsibilities:
+
+    • Ericsson/ZTE Core/RAN Configuration Management: 
+        ◦ New Site Integrating, Network Optimization, Software up-gradation & correction package loading
+        ◦ Creating signalling link and size alteration for BSC/MSC and other configuration. 
+        ◦ Script Created to perform C7 link creation, Routing definition, GPRS definition, TRA/GPH/TRH/STM card addition/deletion.
+        ◦ Perform the capacity enhancement and Site migration, keeping in view the requirements and ensure the Network design meets the goals and objectives.
+    • Performance and Backup Management for Ericsson/ZTE:
+        ◦ Perform the Routine backup & Preventive maintenance of BTS/NodeB/EnodeB/BSC/RNC/MSC.
+        ◦ Handling problem related to GPRS, Call drop, CSSR, Congestion and Handover failures etc.
+        ◦ Interact with field staff in resolving problems related to the call failures, coverage related issues and other technical problems.
+        ◦ Script generation in OSS for monitoring/Configuration purpose.
+
+    • Report Generation and Analysis:
+        ◦ Generation, customization & analysis of various types of daily/monthly/quarterly traffic reports, MIS Reports, Network health reports etc for monitoring of key performance statistics.
+        ◦ Generation of various reports from BO for the analysis of important KPI e.g. drop call, CSSR, congestion, handover, etc on cell level.
+
+    • Switch Operations & Fault Management:
+        ◦ Definition of sites in MSC/BSC/RNC
+        ◦ Correction Package loading/ software up gradation
+        ◦ Cell/LAC definition, Location trace etc.
+        ◦ Handling and troubleshooting of problems in CP& RP Fault.   
+        ◦ Operation & Maintenance of BSS & NSS i.e. Alarm handling, Fault diagnosis and Rectification.
+        ◦ Analysing APZ, APT & BSS fault related alarms and troubleshooting the same.
+        ◦ Coordinates with Ericsson for troubleshooting and faults rectification
+    """
+JOB1_ROLES = """
+|            Role             |      Duration       |
+|:---------------------------:|:-------------------:|
+|    Test Engineer            | JUN/2007 - MAR/2011 |
+|    Sr. Test Engineer        | APR/2011 - MAR/2012 |
+|    Lead- Test Engineerin    | APR/2012 - JUN/2014 |
+|    Sr. Integration Enguneer | JUN/2014 - AUG/2015 |
+"""
+
+JOB1_RESP = """
+ Projects: (Ericsson Core & Radio Product Testing & Development) 
+        Roles and Responsibilities:
+    • 20 Members Team Management as per Production requirement(2G/3G/4G Testing).
+    • Responsible for Software release at Dev/Prod environment and test results shared with developers for the improvement in test cases and product bugs.
+    • Barrack & Pamela Configuration management for Test System.
+    • Release Management,SCM-GIT, Jenkins, Prim, SPOC for Core, Radio & Module Products Test Cases. Various Project Lead for NPI, TPI of Products in ESSJ.
+    • Current/New User Role management in Steam Server for Test System 
+    • SPOC for Test Engineering projects, Test cases releases and support
+    • MFRAG/CAB Leader for Test Engineering
+    • Various upcoming Program/Criteria/Layout/Data Validation & release Planning.
+    • Major role in TPI of RAU 2.1 at ESS-Jaipur from Boras SWEDEN.
+    • Major role in Transfer of Project Implementation – CTS system for MSC-S, BSC-HD
+    • Manufacturing Execution systems implementation and support, Overall Equipment Efficiency, First Pass Yield, Rolling throughput Yield control and follow-up(2G/3G/4G Testing)
+    • Pass Database for release management and Syborg Test System integration deployed for Transmission Product.
+    • Project leaded for Training Cell establishment at ESSJ recognized by Unit Head. 
+    • ACE award winner for First On site AGM19 upgrade for APG 40 for Vodafone customer.
+    • Project leaded for PFU1 cards reprogramming & saved 1.4 Million $ by establishing the Test setup at ESSJ. 
+    • Award from Unit Head for design Issue highlighted with temporary solution in 2P AMM product.
+    • Test and Development of RADIO/CORE and Transmission products. (2G/3G/4G Testing)
+    • Project leaded for NPI/TPI of  NWI,BSC-HD, Cloning Station,MGWv4,RBS600
+    • Test Cases Validation and release management for Dev/Prod Management 
+    • SQL-based Steam Server Database deployed for Dev/Prod Environment Management 
+    • 1.6 Million INR saving by establishing in house setup for repair at ESSJ 
+    • Six Sigma white belt certified in 2008.
+    
+  Projects: (Airtel & Idea Network Integration) 
+    Roles and Responsibilities: Sr. Integration Engineer
+    • Disaster of APG43L, APG43, APG40, Cloning of APG43L, APG43, APG40
+    • Integration of BSC-21233C, BSC-21255, BSC-21260
+    • DT Creation, modification as per Project requirement
+    • BTS Configuration, Call Testing & Data testing, STATS definition as per demand by customer
+    • Ericsson RAN Associate Certified
+    • Various type of Signaling creation, like A Interface, Abis, Gb interface etc.
+    • Expertise in APG-40 C/2, APG-40 C/4, APG43-GEP1, APG43-GEP2., APG43L, HW/SW RAID management
+    • Expansion of HW, SW and HW upgradation
+
+    """
+
+
+
+JOB0_ROLES = """
+|            Role             |      Duration       |
+|:---------------------------:|:-------------------:|
+|      Test Engineer          | SEP/2007 - JUN/2008 |
+"""
+
+
+JOB0_RESP = """
+Projects: (Ericsson Core Product Testing) 
+Roles and Responsibilities: Test Engineer for Ericsson
+    • Worked a Consultant Engineer in Ericsson India Pvt. Ltd for 2G/3G Testing. 
+    • Cloning of APG40, HW Testing of BSC, MSC, MSC-S, MGw
+    • Reporting the Test Status, FPY
+    """
+
+
+    5) Team Lease as Test Engineer			            	                  		    Sep’07– Jun’08 
+       
+
 
 
 EDUCATION = """
 | Degree | Institute  | University | Completion Year |          Major          | Percentage |
 |:------:|:----------:|:----------:|:---------------:|:-----------------------:|:----------:|
-| B.Tech |    JNIT    |    RTU     |    July 2011    |   Electronics & Comm.   |   76.5%    |
-|  12th  | St. Paul's |    BSER    |    May 2006     |     Math & Science      |   71.0%    |
-|  10th  |   Modern   |    BSER    |    June 2004    | All Compulsory Subjects |   71.0%    |
+| MBA    |    SCDL    |   SCDL     |    May 2014     |   Operations            |   63%
+| B.Tech |    GSET    |    RTU     |    July 2007    |   Electronics & Comm.   |   70 %    |
+|Diploma | SGBBGPC    |BTE,Jodhpur |    May 2004     |     Electronics         |   64 %    |
 """
 
 
 SKILLS = """
     - 👩‍💻 Programming: Python, Groovy, Bash Scripting
     - 📊 CI CD Tools: Jenkins, Bamboo, Artifactory, Bitbucket, Jira, Confluence, 
-    - 🗄️ Databases: Oracle, MySQL
+    - 🗄️ Databases: MySQL
     """
 
 
@@ -102,7 +240,7 @@ SECTIONS = [
 
 
 SUMMARY = """
-    - ✔️ 11+ Years of Experience in optimizing critical deployments across large infrastructure
+    - ✔️ 16+ Years of Experience in optimizing critical deployments across large infrastructure
     - ✔️ Strong hands on experience in Linux, AWS, Terraform, Python & Jenkins
     - ✔️ Good understanding of CI/CD , Change and Release processes
     - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
@@ -111,16 +249,35 @@ SUMMARY = """
 
 JOBS = [
     {
-        "COMPANY": "Ericsson",
-        "DURATION": "DEC/2011 - JUN/2018",
+        "COMPANY": "Team Lease",
+        "DURATION": "Sep/2007 - JUN/2008",
         "ROLES": JOB0_ROLES,
         "RESP": JOB0_RESP
     },
     {
-        "COMPANY": "Global Payments",
-        "DURATION": "JUN/2018 - Present",
+        "COMPANY": "Ericsson",
+        "DURATION": "JUN/2008 - JUN/2015",
         "ROLES": JOB1_ROLES,
         "RESP": JOB1_RESP
+    },
+    {
+        "COMPANY": "Idea Cellular Ltd",
+        "DURATION": "AUG/2015 - OCT/2019",
+        "ROLES": JOB0_ROLES,
+        "RESP": JOB0_RESP
+    },
+    {
+        "COMPANY": "Vodafone Idea Ltd",
+        "DURATION": "AUG/2015 - MAY/2022",
+        "ROLES": JOB0_ROLES,
+        "RESP": JOB0_RESP
+    },
+    
+    {
+        "COMPANY": "Global Payments",
+        "DURATION": "MAY/2022 - Present",
+        "ROLES": JOB0_ROLES,
+        "RESP": JOB0_RESP
     }
 ]
 
